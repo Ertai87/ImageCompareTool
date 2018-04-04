@@ -1,0 +1,5 @@
+  Channel distortion: AE
+    red: 228948
+    green: 228948
+    blue: 228948
+    all: 228948
